@@ -1,5 +1,5 @@
 # style.css
- h1{#ffff1a
+ h1{
 
   font-family: verdana;
   color:blue;
@@ -15,5 +15,4 @@ p{
 }
 
 body {
-    background-color: #33ccff;
-}
+    background-color: #ffff99
