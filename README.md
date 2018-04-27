@@ -15,4 +15,5 @@ p{
 }
 
 body {
-    background-color: #ffff99
+    background-color: #ffff99;
+}
