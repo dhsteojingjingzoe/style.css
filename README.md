@@ -1,11 +1,11 @@
 # style.css
- h1{my interest/hobby
+ h1{#ffff1a
 
   font-family: verdana;
   color:blue;
 }
 
- h2{fangirling
+ h2{
   font-family: verdana;
   color:blue;
 }
